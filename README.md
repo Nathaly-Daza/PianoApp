@@ -51,4 +51,4 @@ Puedes personalizar la aplicación modificando los archivos `style.css` y `scrip
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cualquier cambio que te gustaría realizar.
 
 ## Vista
-
+https://nathaly-daza.github.io/PianoApp/
